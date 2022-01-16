@@ -19,6 +19,7 @@
     "eslint-plugin-import": "2",
     "eslint-plugin-node": "11",
     "eslint-plugin-promise": "4",
+    "eslint-plugin-standard": "^5.0.0",
     "git-commit-msg-linter": "^3.2.6",
     "husky": "^7.0.1",
     "jest": "^27.0.6",
